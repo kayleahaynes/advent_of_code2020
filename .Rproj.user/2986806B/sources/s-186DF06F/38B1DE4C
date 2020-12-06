@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607258231480.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "38B1DE4C",
+    "lastKnownWriteTime" : 1607259978,
+    "last_content_update" : 1607259978916,
+    "path" : "~/Documents/advent_of_code_2020/day6.txt",
+    "project_path" : "day6.txt",
+    "properties" : {
+        "cursorPosition" : "2057,0",
+        "scrollLine" : "2052",
+        "tempName" : "Untitled3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
