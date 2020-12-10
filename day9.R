@@ -51,7 +51,7 @@ for (j in 1:nrow(filter_numbers_less_than_target)){
     }
     n <- n + 1
   }
-  # stop the for loop is the number has been found
+  # stop the for loop if the number has been found
   if (check_numbers ==  preamble[(i-1)+m,]$X1){
     break
   }
